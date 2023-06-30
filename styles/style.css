@@ -23,7 +23,7 @@ body {
     left: calc(50vw - 150px);
     width: 300px;
     height: 300px;
-    perspective: 0px;
+
 }
 
 .cube {
